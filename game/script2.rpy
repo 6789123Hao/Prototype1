@@ -1,3 +1,4 @@
+label chess0:    
     define m = Character('【伊森】')
     define l = Character('【莉兹】')
     define i = Character('【伊莎贝拉】', color="#c8ffc8")

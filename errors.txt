@@ -1,0 +1,8 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script2.rpy", line 1: Unexpected indentation at start of file.
+
+Ren'Py Version: Ren'Py 8.0.3.22090809
+Sun Dec  4 06:57:57 2022
